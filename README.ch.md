@@ -1,5 +1,5 @@
 <!-- ![Tantalum Sample Render](https://raw.githubusercontent.com/tunabrain/tantalum/master/Header.jpg "Tantalum Sample Render") -->
-![Tantalum Sample Render](https://raw.githubusercontent.com/ChenZhu-Xie/tantalum_xcz/master/img/cover.jpg "『钽渲染』样例")
+![Tantalum Sample Render](https://raw.githubusercontent.com/ChenZhu-Xie/tantalum_xcz/master/img/cover.jpg "『钽渲染』样例") 
 
 # The Tantalum Renderer #
 
