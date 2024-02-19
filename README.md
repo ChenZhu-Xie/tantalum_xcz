@@ -1,6 +1,8 @@
 <!-- ![Tantalum Sample Render](https://raw.githubusercontent.com/tunabrain/tantalum/master/Header.jpg "Tantalum Sample Render") -->
 ![Tantalum Sample Render](https://raw.githubusercontent.com/ChenZhu-Xie/tantalum_xcz/master/img/cover.jpg "Tantalum Sample Render")
 
+* 中文「自述文档」㊥ 👉 [2D 射线追踪（Fork 自 Benedikt Bitterli）](https://gitee.com/ChenZhu-Xie/tantalum_xcz)
+
 # The Tantalum Renderer #
 
 ## About ##
