@@ -2,7 +2,7 @@
 <!-- ![Tantalum Sample Render](https://raw.githubusercontent.com/ChenZhu-Xie/tantalum_xcz/master/img/cover.jpg "『钽渲染』样例") -->
 ![Tantalum Sample Render](https://gitee.com/ChenZhu-Xie/tantalum_xcz/raw/master/img/cover.jpg "『钽渲染』样例")
 
-* English「README」ⓔ 👉 [tantalum_xcz](https://github.com/ChenZhu-Xie/tantalum_xcz)d
+* English「README」ⓔ 👉 [tantalum_xcz](https://github.com/ChenZhu-Xie/tantalum_xcz)
 
 # The Tantalum Renderer #
 
